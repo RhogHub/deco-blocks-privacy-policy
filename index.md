@@ -119,4 +119,4 @@ Changes will be reflected on this page with an updated date.
 
 If you have questions, contact us:
 
-📧 [your-email@rhog.com](mailto:your-email@rhog.com)
+📧 [rhog.dev@gmail.com](mailto:rhog.dev@gmail.com)
